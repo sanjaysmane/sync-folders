@@ -6,4 +6,4 @@
 
  it can be run on command line as below
 
-´python sync-fold-py source_folder replica_folder logFile.txt 5`
+`Python sync-fold-py source_folder replica_folder logFile.txt 5`
