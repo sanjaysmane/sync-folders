@@ -21,7 +21,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=["requests"],
+    install_requires=["sys", "os", "shutil", "time", "click", "logging", "logging.config", "datetime"],
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
     entry_points={
