@@ -1,0 +1,27 @@
+2022-10-17 10:28:34,978 - INFO - All files and folders from source copied to destination
+2022-10-17 10:29:57,127 - INFO - created folder at destination: stories
+2022-10-17 10:29:57,127 - INFO - created folder at destination: test
+2022-10-17 10:29:57,143 - INFO - demo\source_folder\cars-bad-buy.ipynb is copied to: demo\replica_folder
+2022-10-17 10:29:57,143 - INFO - demo\source_folder\froinloop.py is copied to: demo\replica_folder
+2022-10-17 10:29:57,158 - INFO - demo\source_folder\Nested_json_dict_addingto couln_for_loop.pdf is copied to: demo\replica_folder
+2022-10-17 10:29:57,174 - INFO - demo\source_folder\stories\023-A-DOG-ON-A-LOG-Free-Childrens-Book-By-Monkey-Pen.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,174 - INFO - demo\source_folder\stories\certificates-B2 Degree,ZAB.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,190 - INFO - demo\source_folder\stories\Test_Gesamtfragenkatalog_BAMF.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,190 - INFO - demo\source_folder\stories\Test_Lernkarten_Leben_in_Deutschland.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,205 - INFO - demo\source_folder\test\Python_for_Data_Science_and_AI_Badge2022.pdf is copied to: demo\replica_folder\test
+2022-10-17 10:29:57,205 - INFO - All files and folders from source copied to destination
+2022-10-17 10:29:57,205 - INFO - all files and folders from destination are matched and updated as per source folder
+2022-10-17 10:29:57,205 - INFO - created folder at destination: stories
+2022-10-17 10:29:57,205 - WARNING - folder exists: stories
+2022-10-17 10:29:57,205 - INFO - created folder at destination: test
+2022-10-17 10:29:57,221 - WARNING - folder exists: test
+2022-10-17 10:29:57,221 - INFO - demo\source_folder\cars-bad-buy.ipynb is copied to: demo\replica_folder
+2022-10-17 10:29:57,221 - INFO - demo\source_folder\froinloop.py is copied to: demo\replica_folder
+2022-10-17 10:29:57,236 - INFO - demo\source_folder\Nested_json_dict_addingto couln_for_loop.pdf is copied to: demo\replica_folder
+2022-10-17 10:29:57,252 - INFO - demo\source_folder\stories\023-A-DOG-ON-A-LOG-Free-Childrens-Book-By-Monkey-Pen.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,268 - INFO - demo\source_folder\stories\certificates-B2 Degree,ZAB.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,268 - INFO - demo\source_folder\stories\Test_Gesamtfragenkatalog_BAMF.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,283 - INFO - demo\source_folder\stories\Test_Lernkarten_Leben_in_Deutschland.pdf is copied to: demo\replica_folder\stories
+2022-10-17 10:29:57,283 - INFO - demo\source_folder\test\Python_for_Data_Science_and_AI_Badge2022.pdf is copied to: demo\replica_folder\test
+2022-10-17 10:29:57,283 - INFO - All files and folders from source copied to destination
+2022-10-17 10:29:57,283 - INFO - all files and folders from destination are matched and updated as per source folder
