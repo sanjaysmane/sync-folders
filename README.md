@@ -11,3 +11,9 @@
 `syncfold source_folder replica_folder logFile.txt 5`
 
 where syncfold is package name and it takes 4 arguments like (source folder, destination folder, file name for logs and time inerval in mins)
+
+You can test this tool using demo folder by using following command: -
+
+`syncfold demo/source_folder demo/replica_folder logFile.txt 5`
+
+You can also share it as zip folder and install on any path `pip install zip_folder_name`
